@@ -87,8 +87,8 @@ export default function DeliveryPayment() {
                 Order Process
               </h3>
               <p className="text-sm sm:text-base text-gray-300 leading-relaxed">
-                Simply click "Order on WhatsApp" for any product, send us your
-                order details, make payment via mobile money, and we'll deliver
+                Simply click &quot;Order on WhatsApp&quot; for any product, send us your
+                order details, make payment via mobile money, and we&apos;ll deliver
                 your items free of charge. All products are tested and come with
                 quality assurance.
               </p>

@@ -77,7 +77,7 @@ export default function About() {
             </p>
             <p className="text-sm sm:text-base md:text-lg text-gray-500 leading-relaxed mb-4 sm:mb-6 md:mb-8">
               We understand that your phone is essential to your daily life, and
-              reliable charging solutions shouldn't be a luxury. That's why we
+              reliable charging solutions shouldn&apos;t be a luxury. That&apos;s why we
               offer premium accessories at affordable prices, backed by our
               commitment to quality and customer satisfaction.
             </p>
@@ -118,7 +118,6 @@ export default function About() {
                   initial={{ opacity: 0, scale: 0.9 }}
                   whileInView={{ opacity: 1, scale: 1 }}
                   viewport={{ once: true }}
-                  transition={{ duration: 0.8 }}
                   whileHover={{ scale: 1.05, borderColor: 'rgba(0, 212, 255, 0.5)' }}
                   animate={{
                     boxShadow: [
@@ -128,6 +127,7 @@ export default function About() {
                     ],
                   }}
                   transition={{
+                    duration: 0.8,
                     boxShadow: {
                       duration: 3,
                       repeat: Infinity,

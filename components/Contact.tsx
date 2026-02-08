@@ -21,7 +21,7 @@ export default function Contact() {
             Get in <span className="text-gradient">Touch</span>
           </h2>
           <p className="text-base sm:text-lg md:text-xl text-gray-400 max-w-2xl mx-auto px-4">
-            Have questions? We're here to help. Reach out to us anytime.
+            Have questions? We&apos;re here to help. Reach out to us anytime.
           </p>
         </motion.div>
 

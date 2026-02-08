@@ -149,7 +149,7 @@ export default function FAQ() {
               >
                 Contact us
               </a>{' '}
-              and we'll be happy to help!
+              and we&apos;ll be happy to help!
             </p>
           </div>
         </motion.div>
